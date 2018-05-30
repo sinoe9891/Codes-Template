@@ -15,9 +15,9 @@
 <link rel="canonical" href="https://www.richardmiddleton.me/">
 <meta property="og:locale" content="en_GB">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Richard Middleton - Web Developer">
+<meta property="og:title" content="Code Template">
 <meta property="og:description" content="Richard Middleton is a web developer based in Oslo, Norway.">
-<meta property="og:url" content="https://www.richardmiddleton.me/">
+<meta property="og:url" content="https://www.creativeproductions.com/Codes-Template">
 <meta property="og:site_name" content="Richard Middleton">
 <meta property="fb:app_id" content="2129473083951730">
 <meta property="og:image" content="./includes/content/uploads/2018/05/portfolio-copy.jpg">
