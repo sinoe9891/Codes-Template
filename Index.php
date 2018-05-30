@@ -11,17 +11,17 @@
 	<title>Richard Middleton - Web Developer</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Richard Middleton web developer in Oslo, Norway. great fast web design.">
-<link rel="canonical" href="https://www.creativehonduras.com/Code-Template/">
+<meta name="description" content="Sinoé is a web developer based in Tegucigalpa, Honduras. great fast web design.">
+<link rel="canonical" href="https://www.creativehonduras.com/Codes-Template/">
 <meta property="og:locale" content="en_GB">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Richard Middleton - Web Developer">
-<meta property="og:description" content="Richard Middleton is a web developer based in Oslo, Norway.">
-<meta property="og:url" content="https://www.creativehonduras.com/Code-Template/">
-<meta property="og:site_name" content="Richard Middleton">
-<meta property="fb:app_id" content="2129473083951730">
-<meta property="og:image" content="./includes/content/uploads/2018/05/portfolio-copy.jpg">
-<meta property="og:image:secure_url" content="./includes/content/uploads/2018/05/portfolio-copy.jpg">
+<meta property="og:title" content="Code Template - Web Developer">
+<meta property="og:description" content="Sinoé is a web developer based in Tegucigalpa, Honduras.">
+<meta property="og:url" content="https://www.creativehonduras.com/Codes-Template/">
+<meta property="og:site_name" content="Code Template - Web Developer">
+<meta property="fb:app_id" content="">
+<meta property="og:image" content="https://www.creativehonduras.com/Codes-Template/includes/content/uploads/2018/05/portfolio-copy.jpg">
+<meta property="og:image:secure_url" content="https://www.creativehonduras.com/Codes-Template/includes/content/uploads/2018/05/portfolio-copy.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="700">
 <meta name="twitter:card" content="summary_large_image">
@@ -32,10 +32,6 @@
 <meta name="twitter:creator" content="@richardcodes">
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Person","url":"https:\/\/www.richardmiddleton.me\/","sameAs":["http:\/\/www.facebook.com\/richardCodes","http:\/\/www.instagram.com\/richardcodes","http:\/\/www.linkedin.com\/in\/richard-middleton","http:\/\/www.youtube.com\/richardcodes","https:\/\/twitter.com\/richardcodes"],"@id":"#person","name":"Richard Middleton"}</script>
 <!-- / Yoast SEO plugin. -->
-
-<link rel="dns-prefetch" href="https://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Richard Middleton » Feed" href="https://www.richardmiddleton.me/feed/">
-<link rel="alternate" type="application/rss+xml" title="Richard Middleton » Comments Feed" href="https://www.richardmiddleton.me/comments/feed/">
 <script src="./includes/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
@@ -54,7 +50,7 @@ img.emoji {
 <link rel="stylesheet" id="richardcodes-style-css" href="./includes/style.css" type="text/css" media="all">
 <script type="text/javascript" src="./includes/jquery.js"></script>
 <script type="text/javascript" src="./includes/jquery-migrate.min.js"></script>
-<link rel="shortlink" href="https://www.richardmiddleton.me/">
+<link rel="shortlink" href="https://www.creativehonduras.com/">
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-32x32.png" sizes="32x32">
 <link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-192x192.png" sizes="192x192">
