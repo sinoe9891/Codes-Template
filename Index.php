@@ -12,12 +12,12 @@
 
 <!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Richard Middleton web developer in Oslo, Norway. great fast web design.">
-<link rel="canonical" href="https://www.richardmiddleton.me/">
+<link rel="canonical" href="https://www.creativehonduras.com/Code-Template/">
 <meta property="og:locale" content="en_GB">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Richard Middleton - Web Developer">
 <meta property="og:description" content="Richard Middleton is a web developer based in Oslo, Norway.">
-<meta property="og:url" content="https://www.richardmiddleton.me/">
+<meta property="og:url" content="https://www.creativehonduras.com/Code-Template/">
 <meta property="og:site_name" content="Richard Middleton">
 <meta property="fb:app_id" content="2129473083951730">
 <meta property="og:image" content="./includes/content/uploads/2018/05/portfolio-copy.jpg">
