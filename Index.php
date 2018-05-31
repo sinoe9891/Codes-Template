@@ -14,7 +14,7 @@
           <div class="hero-text">
               <div class="hero-text-upper">
                   <img class="avatar" src="./includes/avatar.png" alt="avatar">
-                  <h5 class="highlight">Web Developer &amp; Teacher</h5>
+                  <h5 class="highlight">Web Developer</h5>
               </div>
               <h1 class="h1-display">Hey! I'm
                   <span class="span-display">Richard</span> &amp; this is my website, feel free to have a look around<span class="span-display">.</span>
