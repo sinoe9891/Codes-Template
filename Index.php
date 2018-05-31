@@ -6,17 +6,17 @@
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1.0 maximun-scale=1.0">
   <title>Code Template - Web Developer</title>
-  <link rel="icon" href="./img/favicon.png" type="image/x-icon" />
+  <link rel="icon" href="./includes/avatar.png" type="image/x-icon" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link href="./includes/css" rel="stylesheet">
-<!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+ <!-- Optimización SEO -->
 <meta name="description" content="Sinoé is a web developer based in Tegucigalpa, Honduras. great fast web design.">
-<link rel="canonical" href="https://www.creativehonduras.com/">
+<link rel="canonical" href="https://www.creativehonduras.com/codes-template">
 <meta property="og:locale" content="es_ES">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Codes Template - Web Developer">
 <meta property="og:description" content="Sinoé is a web developer based in Tegucigalpa, Honduras.">
-<meta property="og:url" content="https://www.creativehonduras.com/">
+<meta property="og:url" content="https://www.creativehonduras.com/codes-template">
 <meta property="og:site_name" content="Codes Template - Web Developer">
 <meta property="og:image" content="https://www.creativehonduras.com/codes-template/includes/content/uploads/2018/05/portfolio-copy.jpg">
 <!-- <meta property="og:image:secure_url" content="https://www.creativehonduras.com/codes-template/includes/content/uploads/2018/05/portfolio-copy.jpg">
@@ -29,7 +29,7 @@
 <meta name="twitter:image" content="./includes/content/uploads/2018/05/portfolio-copy.jpg">
 <meta name="twitter:creator" content="@richardcodes"> -->
 <!-- / Yoast SEO plugin. -->
-<script src="./includes/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+<script src="./includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -45,8 +45,8 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="richardcodes-style-css" href="./includes/style.css" type="text/css" media="all">
-<script type="text/javascript" src="./includes/jquery.js"></script>
-<script type="text/javascript" src="./includes/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="./includes/js/jquery.js"></script>
+<script type="text/javascript" src="./includes/js/jquery-migrate.min.js"></script>
 <link rel="shortlink" href="https://www.creativehonduras.com/">
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-32x32.png" sizes="32x32">
@@ -101,7 +101,7 @@ img.emoji {
                     <span class="span-display">Richard</span> &amp; this is my website, feel free to have a look around<span class="span-display">.</span>
                 </h1>
             </div>
-            <iframe src="./includes/gLWIYk0Sd38.html" allowfullscreen=""></iframe>
+
         </div>
     </header>
 
