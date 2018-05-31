@@ -1,120 +1,36 @@
 <!DOCTYPE html>
 <!-- saved from url=(0032)https://www.richardmiddleton.me/ -->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-  <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1.0 maximun-scale=1.0">
-  <title>Code Template - Web Developer</title>
-  <link rel="icon" href="./includes/avatar.png" type="image/x-icon" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link href="./includes/css/css.css" rel="stylesheet">
- <!-- Optimización SEO -->
-<meta name="description" content="Sinoé is a web developer based in Tegucigalpa, Honduras. great fast web design.">
-<link rel="canonical" href="https://www.creativehonduras.com/codes-template">
-<meta property="og:locale" content="es_ES">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Codes Template - Web Developer">
-<meta property="og:description" content="Sinoé is a web developer based in Tegucigalpa, Honduras.">
-<meta property="og:url" content="https://www.creativehonduras.com/codes-template">
-<meta property="og:site_name" content="Codes Template - Web Developer">
-<meta property="og:image" content="https://www.creativehonduras.com/codes-template/includes/content/uploads/2018/05/portfolio-copy.jpg">
-<meta property="og:image:secure_url" content="https://www.creativehonduras.com/codes-template/includes/content/uploads/2018/05/portfolio-copy.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="700">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Sinoé is a web developer based in Tegucigalpa, Honduras. great fast web design.">
-<meta name="twitter:title" content="Code Template - Web Developer">
-<meta name="twitter:site" content="@richardcodes">
-<meta name="twitter:image" content="./includes/content/uploads/2018/05/portfolio-copy.jpg">
-<meta name="twitter:creator" content="@richardcodes">
-<!-- / Yoast SEO plugin. -->
-<script src="./includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="richardcodes-style-css" href="./includes/css/style.css" type="text/css" media="all">
-<script type="text/javascript" src="./includes/js/jquery.js"></script>
-<script type="text/javascript" src="./includes/js/jquery-migrate.min.js"></script>
-<link rel="shortlink" href="https://www.creativehonduras.com/">
-<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-32x32.png" sizes="32x32">
-<link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="./includes/content/uploads/2018/05/cropped-comic-180x180.png">
-<meta name="msapplication-TileImage" content="./includes/content/uploads/2018/05/cropped-comic-270x270.png">
-</head>
+<!-- Header -->
+<?php require_once('includes/content/sections/header.php'); ?>
 <body class="home page-template page-template-page-home page-template-page-home-php page page-id-6">
-	<div id="page" class="site">
-		<a class="skip-link screen-reader-text" href="https://www.richardmiddleton.me/#content">Skip to content</a>
-
-    <!--======= HEADER SECTION ========-->
-
-    <header id="header">
-        <div id="container-nav" class="container-nav">
-            <div id="logo" class="menuUp">
-                <div id="navToggle">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </div>
-            <nav>
-                <ul>
-                    <li>
-                        <a href="https://www.richardmiddleton.me/#header" class="nav-active">INTRO</a>
-                    </li>
-                    <li>
-                        <a href="https://www.richardmiddleton.me/#about">ABOUT</a>
-                    </li>
-                    <li>
-                        <a href="https://www.richardmiddleton.me/#projects">PROJECTS</a>
-                    </li>
-                    <li>
-                        <a href="https://www.richardmiddleton.me/#social">CONTACT</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-
-        <div class="hero-skew hero-animation">
-        </div>
-        <a href="https://www.richardmiddleton.me/#about" class="skew-button">
-        </a>
-        <div class="hero-container">
-            <div class="hero-text">
-                <div class="hero-text-upper">
-                    <img class="avatar" src="./includes/avatar.png" alt="avatar">
-                    <h5 class="highlight">Web Developer &amp; Teacher</h5>
-                </div>
-                <h1 class="h1-display">Hey! I'm
-                    <span class="span-display">Richard</span> &amp; this is my website, feel free to have a look around<span class="span-display">.</span>
-                </h1>
-            </div>
-
-        </div>
-    </header>
-
-
+  <!--======= HEADER SECTION ========-->
+  <header id="header">
+      <?php require_once('includes/content/sections/nav.php'); ?>
+      <div class="hero-skew hero-animation">
+      </div>
+      <a href="#about" class="skew-button">
+      </a>
+      <div class="hero-container">
+          <div class="hero-text">
+              <div class="hero-text-upper">
+                  <img class="avatar" src="./includes/avatar.png" alt="avatar">
+                  <h5 class="highlight">Web Developer &amp; Teacher</h5>
+              </div>
+              <h1 class="h1-display">Hey! I'm
+                  <span class="span-display">Richard</span> &amp; this is my website, feel free to have a look around<span class="span-display">.</span>
+              </h1>
+          </div>
+          <iframe src="https://www.youtube.com/embed/gLWIYk0Sd38?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+  </header>
     <!--======== ABOUT SECTION ========-->
-
     <section id="about" class="about">
         <div class="about-skew"></div>
         <div class="container about-container">
             <div class="empty"></div>
             <div class="about-container-text">
-                <h5 class="highlight">About</h5>
-                <h2 class="h2-display">I'm a web developer from the U.K Currently in Oslo, Norway.</h2>
+                <h5 class="highlight">Sobre Sinoé</h5>
+                <h2 class="h2-display">I'm a web developer from the Honduras Currently in TGU, F.M.</h2>
                 <p class="p-display">I like to get involved in coding communities. I am a local leader for freeCodeCamp Oslo and Leeds, I also like to run events and help others learn in person and on <strong>YouTube.</strong>
                 </p>
                 <p class="p-display">I run the <strong>freeCodeCamp Instagram</strong> with 11K members, along with my <strong>personal instagram</strong> account.</p>
@@ -167,300 +83,19 @@ img.emoji {
             </div>
         </div>
     </section>
-
-
     <!--======== PROJECT SECTION =======-->
 
-    <section id="projects" class="projects">
-        <div class="container">
-            <h3 class="h3-display">Projects</h3>
-            <div id="filters" class="filters">
-                <div class="filters-item active" data-key="11">RECENT</div>
-                <div class="filters-item" data-key="12">HTML</div>
-                <div class="filters-item" data-key="13">CSS</div>
-                <div class="filters-item" data-key="15">JAVASCRIPT</div>
-                <div class="filters-item" data-key="16">NODEJS</div>
-                <div class="filters-item" data-key="14">WORDPRESS</div>
-                <div class="filters-item" data-key="17">P5JS</div>
-                <div class="filters-item" data-key="18">PUG</div>
-            </div>
-            <div id="card-container" class="card-container">
-                                                            <div class="card">
-                            <a href="https://www.richardmiddleton.me/projects/portfolio/">
-                                <div class="card-image" style="background:url(./includes/content/uploads/2018/05/portfolio-copy-302x176.jpg); background-size:cover; background-position: top center;">
-                                </div>
-                            </a>
-                            <div class="card-text">
-                                <a href="https://www.richardmiddleton.me/projects/portfolio/">
-                                    <h4 class="h4-display">Portfolio</h4>
-                                </a>
-                                <p class="card-p">This Website, built on Wordpress using the Wordpress API and lots of others.</p>
-                                <div class="card-text-more">
 
 
+    <!-- Script Footer -->
+    <script type="text/javascript" src="./includes/js/navigation.js"></script>
+    <script type="text/javascript" src="./includes/js/skip-link-focus-fix.js"></script>
+    <script type="text/javascript" src="./includes/js/main-min.js"></script>
+    <script type="text/javascript" src="./includes/js/bj-lazy-load.min.js"></script>
+    <script type="text/javascript" src="./includes/js/wp-embed.min.js"></script>
 
-                                            <a href="https://www.richardmiddleton.me/" class="more" title="view">
-                                                <img src="./includes/view.svg" alt="view">
-                                            </a>
-                                                                                                                                <a href="https://github.com/Middi/richardcodes-wp" class="more" title="github">
-                                                    <img src="./includes/git-view.svg" alt="github">
-                                                </a>
-                                                                            <a href="https://www.richardmiddleton.me/projects/portfolio/" class="more" title="Case Study">
-                                        <img src="./includes/case-view.svg" alt="case study">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                                        <div class="card">
-                            <a href="https://www.richardmiddleton.me/projects/tomas-george/">
-                                <div class="card-image" style="background:url(./includes/content/uploads/2018/05/tomasgeorge-302x170.jpg); background-size:cover; background-position: top center;">
-                                </div>
-                            </a>
-                            <div class="card-text">
-                                <a href="https://www.richardmiddleton.me/projects/tomas-george/">
-                                    <h4 class="h4-display">Tomas George</h4>
-                                </a>
-                                <p class="card-p">Re-design and code of Udemy music teacher Tomas George's website.</p>
-                                <div class="card-text-more">
-
-
-
-                                            <a href="http://tomasgeorge.com/" class="more" title="view">
-                                                <img src="./includes/view.svg" alt="view">
-                                            </a>
-                                                                                                                                <a href="https://github.com/Middi/tomas-george" class="more" title="github">
-                                                    <img src="./includes/git-view.svg" alt="github">
-                                                </a>
-                                                                            <a href="https://www.richardmiddleton.me/projects/tomas-george/" class="more" title="Case Study">
-                                        <img src="./includes/case-view.svg" alt="case study">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                                        <div class="card">
-                            <a href="https://www.richardmiddleton.me/projects/contact-list-app/">
-                                <div class="card-image" style="background:url(./includes/content/uploads/2018/05/contacts-302x170.jpg); background-size:cover; background-position: top center;">
-                                </div>
-                            </a>
-                            <div class="card-text">
-                                <a href="https://www.richardmiddleton.me/projects/contact-list-app/">
-                                    <h4 class="h4-display">Contact List App</h4>
-                                </a>
-                                <p class="card-p">Made with Node.JS, it included a database with MongoDB and a server with express. Add and edit contacts, with a full list of countries and flags.</p>
-                                <div class="card-text-more">
-
-
-
-                                            <a href="http://contacts.richardmiddleton.me/" class="more" title="view">
-                                                <img src="./includes/view.svg" alt="view">
-                                            </a>
-                                                                                                                                <a href="https://github.com/Middi/contacts" class="more" title="github">
-                                                    <img src="./includes/git-view.svg" alt="github">
-                                                </a>
-                                                                            <a href="https://www.richardmiddleton.me/projects/contact-list-app/" class="more" title="Case Study">
-                                        <img src="./includes/case-view.svg" alt="case study">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                                        <div class="card">
-                            <a href="https://www.richardmiddleton.me/projects/space-invaders/">
-                                <div class="card-image" style="background:url(./includes/content/uploads/2018/05/space-invaders-302x170.jpg); background-size:cover; background-position: top center;">
-                                </div>
-                            </a>
-                            <div class="card-text">
-                                <a href="https://www.richardmiddleton.me/projects/space-invaders/">
-                                    <h4 class="h4-display">Space Invaders</h4>
-                                </a>
-                                <p class="card-p">Simplified arcade classic Space Invaders with P5.JS</p>
-                                <div class="card-text-more">
-
-
-
-                                            <a href="http://projects.richardmiddleton.me/space-invaders" class="more" title="view">
-                                                <img src="./includes/view.svg" alt="view">
-                                            </a>
-                                                                                                                                <a href="https://github.com/middi/space-invaders" class="more" title="github">
-                                                    <img src="./includes/git-view.svg" alt="github">
-                                                </a>
-                                                                            <a href="https://www.richardmiddleton.me/projects/space-invaders/" class="more" title="Case Study">
-                                        <img src="./includes/case-view.svg" alt="case study">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                                        <div class="card">
-                            <a href="https://www.richardmiddleton.me/projects/amazon-re-design/">
-                                <div class="card-image" style="background:url(./includes/content/uploads/2018/05/amazon-302x170.jpg); background-size:cover; background-position: top center;">
-                                </div>
-                            </a>
-                            <div class="card-text">
-                                <a href="https://www.richardmiddleton.me/projects/amazon-re-design/">
-                                    <h4 class="h4-display">Amazon Re-Design</h4>
-                                </a>
-                                <p class="card-p">Beautiful Amazon re-design, created from a design by Josh Millgate.</p>
-                                <div class="card-text-more">
-
-
-
-                                            <a href="http://projects.richardmiddleton.me/amazon/" class="more" title="view">
-                                                <img src="./includes/view.svg" alt="view">
-                                            </a>
-                                                                                                                                <a href="https://github.com/Middi/amazon-drive-redesign" class="more" title="github">
-                                                    <img src="./includes/git-view.svg" alt="github">
-                                                </a>
-                                                                            <a href="https://www.richardmiddleton.me/projects/amazon-re-design/" class="more" title="Case Study">
-                                        <img src="./includes/case-view.svg" alt="case study">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                                        <div class="card">
-                            <a href="https://www.richardmiddleton.me/projects/translation-app/">
-                                <div class="card-image" style="background:url(./includes/content/uploads/2018/05/translate-302x170.jpg); background-size:cover; background-position: top center;">
-                                </div>
-                            </a>
-                            <div class="card-text">
-                                <a href="https://www.richardmiddleton.me/projects/translation-app/">
-                                    <h4 class="h4-display">Translation App</h4>
-                                </a>
-                                <p class="card-p">Translation resource app made with MongoDB, Node.JS, Pug, Passport, Express and Bootstrap.</p>
-                                <div class="card-text-more">
-
-
-
-                                            <a href="http://translate.richardmiddleton.me/" class="more" title="view">
-                                                <img src="./includes/view.svg" alt="view">
-                                            </a>
-                                                                                                                                <a href="https://github.com/Middi/translation2" class="more" title="github">
-                                                    <img src="./includes/git-view.svg" alt="github">
-                                                </a>
-                                                                            <a href="https://www.richardmiddleton.me/projects/translation-app/" class="more" title="Case Study">
-                                        <img src="./includes/case-view.svg" alt="case study">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                            </div>
-        </div>
-    </section>
-
-
-    <!--======== SOCIAL SECTION ========-->
-
-    <section id="social" class="social">
-        <div class="social-container">
-            <div class="social-container-half">
-                <div class="insta-header">
-                    <img src="./includes/instagram.png" alt="instagram">
-                    <h5 class="highlight">INSTAGRAM</h5>
-                </div>
-
-                <div id="insta-grid" class="insta-grid">
-                <a href="https://www.instagram.com/p/BjaMVTQn06d/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/e5411b368ec38b5a33fff8b15861d247/5BB7E89F/t51.2885-15/s150x150/e35/32937636_210761236386786_7635159707082031104_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a><a href="https://www.instagram.com/p/BjXgfOPH3vu/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/b71c1a6c828aeb6bd613b1572d00046f/5BA97D14/t51.2885-15/s150x150/e35/32889496_200592847422313_7198401072547758080_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a><a href="https://www.instagram.com/p/BjSkfAmnKAg/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/64bc7dfa29f57322f08c220730b516d4/5B860CF3/t51.2885-15/s150x150/e35/33038578_1975898726007848_8088784106957045760_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a><a href="https://www.instagram.com/p/BjPc8bpHpgr/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/81db07164a008d501304acba0f6a9e2b/5B8C2248/t51.2885-15/s150x150/e35/32742563_125653091643073_1054521235465043968_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a><a href="https://www.instagram.com/p/BjNVAmyH4Mj/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/2912d514935ec53be448a7a5929fff75/5BA4F6B4/t51.2885-15/s150x150/e35/32552172_172112943481543_2847400778505650176_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a><a href="https://www.instagram.com/p/BjH6I_LH7Iv/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/00841e0efc7ba6c6a23a4fb06ce4bd1c/5BC05DC6/t51.2885-15/s150x150/e35/31905471_206343973313763_6781165916232089600_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a><a href="https://www.instagram.com/p/BjDBP6FH4Dj/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/df62fb6995ce2fe8cf08d1ae0b3eac06/5BC3E0F0/t51.2885-15/s150x150/e35/32047468_198553744122357_848336846474706944_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a><a href="https://www.instagram.com/p/Bi9ksDundC6/" target="_blank">
-            <div class="insta-grid-pic" style="background:url(&#39;https://scontent.cdninstagram.com/vp/fed408488219ff2a70a38269cdb1a55d/5B9F98AD/t51.2885-15/s150x150/e35/32006514_540947992966082_1384816143356657664_n.jpg&#39;); background-size:cover; background-position: center center;">
-
-            </div>
-        </a></div>
-            </div>
-            <div class="social-container-half">
-                <div class="twitter-header">
-                    <img src="./includes/email.png" alt="email">
-                    <h5 class="highlight">CONTACT</h5>
-                </div>
-                <div class="contact-text">
-                    <p class="p-display">Feel free to contact me and I will get back to you as soon as I can.</p>
-                    <a href="mailto:richard@richardmiddleton.me"><p class="p-display p-mail"><strong>richard[at]richardmiddleton.me</strong></p></a>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-
-
-    <!--======== FOOTER SECTION ========-->
-
-    <footer class="footer">
-        <div class="container footer-container">
-            <h3 class="h3-display white-text">Stay In Touch</h3>
-            <div class="footer-socials">
-                <a href="https://instagram.com/richardcodes" class="social-links">
-                    <div id="instagram" class="socials">
-                        <svg width="50px" height="50px" viewBox="-14 -14 40 40" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z" fill="#757575"></path>
-                        </svg>
-                    </div>
-                </a>
-                <a href="https://youtube.com/richardcodes">
-                    <div id="youtube" class="socials">
-                        <svg version="1.1" width="50px" height="50px" viewBox="-14 -14 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
-                            <path class="a" d="M23.495 6.205a3.007 3.007 0 0 0-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 0 0 .527 6.205a31.247 31.247 0 0 0-.522 5.805 31.247 31.247 0 0 0 .522 5.783 3.007 3.007 0 0 0 2.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 0 0 2.088-2.088 31.247 31.247 0 0 0 .5-5.783 31.247 31.247 0 0 0-.5-5.805zM9.609 15.601V8.408l6.264 3.602z" fill="#757575"></path>
-                        </svg>
-                    </div>
-                </a>
-                <a href="https://github.com/middi">
-                    <div id="github" class="socials">
-                        <svg version="1.1" width="50px" height="50px" viewBox="-14 -13 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
-                            <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#757575"></path>
-                        </svg>
-                    </div>
-                </a>
-                <a href="https://twitch.tv/richardcodes">
-                    <div id="twitch" class="socials">
-                        <svg version="1.1" width="50px" height="50px" viewBox="-14 -15 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
-                            <path d="M2.089 0L.525 4.175v16.694h5.736V24h3.132l3.127-3.132h4.695l6.26-6.258V0H2.089zm2.086 2.085H21.39v11.479l-3.652 3.652H12l-3.127 3.127v-3.127H4.175V2.085z" fill="#757575"></path>
-                            <path d="M9.915 12.522H12v-6.26H9.915v6.26zm5.735 0h2.086v-6.26H15.65v6.26z" fill="#757575"></path>
-                        </svg>
-                    </div>
-                </a>
-                <a href="mailto:richard@richardmiddleton.me">
-                    <div id="email" class="socials">
-                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1200 -1600 3000 3000" width="42" height="42" xml:space="preserve">
-                            <g transform="matrix(1,0,0,-1,30.372881,1252.3051)" id="g4">
-                                <path d="M 1792,826 V 32 q 0,-66 -47,-113 -47,-47 -113,-47 H 160 Q 94,-128 47,-81 0,-34 0,32 V 826 Q 44,777 101,739 463,493 598,394 655,352 690.5,328.5 726,305 785,280.5 844,256 895,256 h 1 1 q 51,0 110,24.5 59,24.5 94.5,48 35.5,23.5 92.5,65.5 170,123 498,345 57,39 100,87 z m 0,294 q 0,-79 -49,-151 -49,-72 -122,-123 -376,-261 -468,-325 -10,-7 -42.5,-30.5 -32.5,-23.5 -54,-38 Q 1035,438 1004.5,420 974,402 947,393 q -27,-9 -50,-9 h -1 -1 q -23,0 -50,9 -27,9 -57.5,27 -30.5,18 -52,32.5 -21.5,14.5 -54,38 Q 649,514 639,521 548,585 377,703.5 206,822 172,846 110,888 55,961.5 0,1035 0,1098 q 0,78 41.5,130 41.5,52 118.5,52 h 1472 q 65,0 112.5,-47 47.5,-47 47.5,-113 z" fill="#4997E3"></path>
-                            </g>
-                        </svg>
-                    </div>
-                </a>
-            </div>
-            <p class="footer-p">RichardCodes 2018</p>
-        </div>
-    </footer>
-
-<script type="text/javascript" src="./includes/js/navigation.js"></script>
-<script type="text/javascript" src="./includes/js/skip-link-focus-fix.js"></script>
-<script type="text/javascript" src="./includes/js/main-min.js"></script>
-<script type="text/javascript" src="./includes/js/bj-lazy-load.min.js"></script>
-<script type="text/javascript" src="./includes/js/wp-embed.min.js"></script>
-</div>
-
-</body></html>
+    <!-- Footer -->
+    <?php require_once('includes/content/sections/footer.php'); ?>
+    <!-- End Footer -->
+    </body>
+</html>
