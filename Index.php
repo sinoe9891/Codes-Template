@@ -1,36 +1,33 @@
 <!DOCTYPE html>
 <!-- saved from url=(0032)https://www.richardmiddleton.me/ -->
-<html lang="en-GB" id="arve" prefix="og: http://ogp.me/ns#"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-    <link href="./includes/css" rel="stylesheet">
-
-
-	<title>Richard Middleton - Web Developer</title>
-
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1.0 maximun-scale=1.0">
+  <title>Code Template - Web Developer</title>
+  <link rel="icon" href="./img/favicon.png" type="image/x-icon" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="./includes/css" rel="stylesheet">
 <!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Sinoé is a web developer based in Tegucigalpa, Honduras. great fast web design.">
-<link rel="canonical" href="https://www.creativehonduras.com/Codes-Template/">
-<meta property="og:locale" content="en_GB">
+<link rel="canonical" href="https://www.creativehonduras.com/">
+<meta property="og:locale" content="es_ES">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Code Template - Web Developer">
+<meta property="og:title" content="Codes Template - Web Developer">
 <meta property="og:description" content="Sinoé is a web developer based in Tegucigalpa, Honduras.">
-<meta property="og:url" content="https://www.creativehonduras.com/Codes-Template/">
-<meta property="og:site_name" content="Code Template - Web Developer">
-<meta property="fb:app_id" content="">
-<meta property="og:image" content="https://www.creativehonduras.com/Codes-Template/includes/content/uploads/2018/05/portfolio-copy.jpg">
-<meta property="og:image:secure_url" content="https://www.creativehonduras.com/Codes-Template/includes/content/uploads/2018/05/portfolio-copy.jpg">
+<meta property="og:url" content="https://www.creativehonduras.com/">
+<meta property="og:site_name" content="Codes Template - Web Developer">
+<meta property="og:image" content="https://www.creativehonduras.com/codes-template/includes/content/uploads/2018/05/portfolio-copy.jpg">
+<!-- <meta property="og:image:secure_url" content="https://www.creativehonduras.com/codes-template/includes/content/uploads/2018/05/portfolio-copy.jpg">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="700">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Richard Middleton is a web developer based in Oslo, Norway.">
-<meta name="twitter:title" content="Richard Middleton - Web Developer">
+<meta property="og:image:height" content="700"> -->
+<!-- <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Sinoé is a web developer based in Tegucigalpa, Honduras. great fast web design.">
+<meta name="twitter:title" content="Code Template - Web Developer">
 <meta name="twitter:site" content="@richardcodes">
 <meta name="twitter:image" content="./includes/content/uploads/2018/05/portfolio-copy.jpg">
-<meta name="twitter:creator" content="@richardcodes">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Person","url":"https:\/\/www.richardmiddleton.me\/","sameAs":["http:\/\/www.facebook.com\/richardCodes","http:\/\/www.instagram.com\/richardcodes","http:\/\/www.linkedin.com\/in\/richard-middleton","http:\/\/www.youtube.com\/richardcodes","https:\/\/twitter.com\/richardcodes"],"@id":"#person","name":"Richard Middleton"}</script>
+<meta name="twitter:creator" content="@richardcodes"> -->
 <!-- / Yoast SEO plugin. -->
 <script src="./includes/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
@@ -51,27 +48,13 @@ img.emoji {
 <script type="text/javascript" src="./includes/jquery.js"></script>
 <script type="text/javascript" src="./includes/jquery-migrate.min.js"></script>
 <link rel="shortlink" href="https://www.creativehonduras.com/">
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		<link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-32x32.png" sizes="32x32">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-32x32.png" sizes="32x32">
 <link rel="icon" href="./includes/content/uploads/2018/05/cropped-comic-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="./includes/content/uploads/2018/05/cropped-comic-180x180.png">
 <meta name="msapplication-TileImage" content="./includes/content/uploads/2018/05/cropped-comic-270x270.png">
-
-<!-- BEGIN GADWP v5.3.3 Universal Analytics - https://exactmetrics.com/ -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-104784108-1', 'auto');
-  ga('send', 'pageview');
-</script>
-<!-- END GADWP Universal Analytics -->
 </head>
-
 <body class="home page-template page-template-page-home page-template-page-home-php page page-id-6">
-
-
 	<div id="page" class="site">
 		<a class="skip-link screen-reader-text" href="https://www.richardmiddleton.me/#content">Skip to content</a>
 
