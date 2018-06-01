@@ -88,8 +88,8 @@
 
 
     <!-- Script Footer -->
-    <script type="text/javascript" src="./includes/js/navigation.js"></script>
-    <script type="text/javascript" src="./includes/js/skip-link-focus-fix.js"></script>
+    <script type="text/javascript" src="./includes/js/navigation.jsa"></script>
+    <script type="text/javascript" src="./includes/js/skip-link-focus-fix.jsa"></script>
     <script type="text/javascript" src="./includes/js/main-min.js"></script>
     <script type="text/javascript" src="./includes/js/bj-lazy-load.min.js"></script>
     <script type="text/javascript" src="./includes/js/wp-embed.min.js"></script>
